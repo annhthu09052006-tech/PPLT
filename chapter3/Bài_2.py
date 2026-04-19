@@ -1,0 +1,2 @@
+﻿print
+Bai 2
